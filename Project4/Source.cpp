@@ -18,7 +18,7 @@ struct CursorPos
 CursorPos makeMove(int, CursorPos&);
 int way = 0;
 void gotoxy(short, short);
-
+//практика змін
 int main()
 {
 	setlocale(LC_ALL, "");
