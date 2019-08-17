@@ -19,6 +19,7 @@ CursorPos makeMove(int, CursorPos&);
 int way = 0;
 void gotoxy(short, short);
 //практика змін
+//практика змін 2
 int main()
 {
 	setlocale(LC_ALL, "");
