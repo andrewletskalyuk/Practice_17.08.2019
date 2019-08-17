@@ -20,6 +20,7 @@ int way = 0;
 void gotoxy(short, short);
 //практика змін
 //практика змін 2
+//практика змін 3
 int main()
 {
 	setlocale(LC_ALL, "");
